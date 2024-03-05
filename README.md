@@ -1,0 +1,2 @@
+# Projeto-2-AI900
+Reconhecimento Facial e transformação de imagens em Dados no Azure ML
