@@ -1,0 +1,9 @@
+1. In another browser tab, navigate to Vision Studio at https://portal.vision.cognitive.azure.com.
+
+2. Sign in with your account and making sure you are using the same directory as the one where you have created your Azure AI services resource.
+
+3. On the Vision Studio home page, select View all resources under the Getting started with Vision heading.
+
+4.On the Select a resource to work with page, hover your mouse cursor over the resource you created above in the list and then check the box to the left of the resource name, then select Select as default resource.
+
+5. Close the settings page by selecting the “x” at the top right of the screen.
